@@ -23,7 +23,8 @@ $ git branch
 - 해당 버튼을 선택하여 메시지를 작성하고 PR을 생성한다.
 - **(병합하려고 하는 브랜치 명을 확인하고 병합한다. ljs → dev로)**
 
-![https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0f6b1136-87ab-49a8-a1f8-db8afdd9d3e8/_2020-12-22__10.33.15.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210215%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210215T014603Z&X-Amz-Expires=86400&X-Amz-Signature=c514dc6bccff5710667eb235ddd36b9a315714c56156ffa4da11d0c81fa667c2&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22_2020-12-22__10.33.15.png%22]()
+<img width="804" alt="pr-image" src="https://user-images.githubusercontent.com/52526452/107897006-543ee280-6f7b-11eb-96bc-fa674c6138c9.png">
+
 
 ## 4. Merge Pull Request
 
